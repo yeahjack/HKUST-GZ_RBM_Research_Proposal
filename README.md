@@ -1,4 +1,4 @@
-# HKUST-GZR BM Research Proposal
+# RBM Research Proposal for HKUST-GZ
 
 ## Quick Start
 
@@ -9,7 +9,7 @@
 
 ## Use it on Overleaf
 
-In `menu`, change LaTex compiler to LaTex.
+In `menu`, change LaTeX compiler to XeLaTeX.
 
 ![](README.image/overleaf_menu.jpg)
 
